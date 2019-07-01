@@ -1,4 +1,0 @@
-# This is my YAML file.
-
-pool:
-  vmImage: 'Ubuntu-16.04'
